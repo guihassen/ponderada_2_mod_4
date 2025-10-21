@@ -3,7 +3,7 @@
 <br><br>
 
 
-### Esse repositório é referente a segunda ponderada em sala do Módulo 4
+### Esse repositório é referente a segunda ponderada em sala do Módulo 4 do dia 20/10/2025
 
 ----
 
